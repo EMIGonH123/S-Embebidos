@@ -1,0 +1,7 @@
+#ifndef PROCESAMIENTO__H
+#define PROCESAMIENTO__H
+	int promedioDatos( int * datos );
+	void ordenarDatos( int * datos );
+	int mayorArreglo( int * datos );
+	int menorArreglo( int * datos );
+#endif
